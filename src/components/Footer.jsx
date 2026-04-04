@@ -195,7 +195,7 @@ export default function Footer() {
                   Danielle Lynn Gonsalves
                 </a>
                 <span>&</span>
-                <a href="#" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition">
+                <a href="https://www.linkedin.com/in/shivom-ludhiarich-346b82206/" target="_blank" rel="noopener noreferrer" className="hover:opacity-80 transition">
                   Shivom Ludhiarich
                 </a>
               </span>
