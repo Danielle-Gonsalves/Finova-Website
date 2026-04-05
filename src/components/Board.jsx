@@ -10,6 +10,7 @@ import aditya from "../assets/members/images/Aditya.jpg";
 import nihar from "../assets/members/images/Nihar.jpg";
 import ayush from "../assets/members/images/Ayush.jpg";
 import pranav from "../assets/members/images/Pranav.jpg";
+import debarun from "../assets/members/images/Debarun.png";
 
 const members = [
   { name: "Vedant Agarwal", role: "President", img: vedant, email: "mailto:vedant.agarwal312@gmail.com", linkedin: "https://www.linkedin.com/in/vedant-agarwal312" },
@@ -18,7 +19,7 @@ const members = [
   { name: "Aayushman Jain", role: "Treasurer", img: aayushman, email: "mailto:aayushman.mitmpl2023@learner.manipal.edu", linkedin: "https://www.linkedin.com/in/aayushman-jain" },
   { name: "Nishant Dahiya", role: "Head of Operations", img: nishant, email: "mailto:dahiyanishant2405@gmail.com", linkedin: "https://www.linkedin.com/in/nishant-dahiya-3a071424b" },
   { name: "Nihar Madhekar", role: "Quant Head", img: nihar, email: "mailto:niharmadhekar@gmail.com", linkedin: "https://www.linkedin.com/in/niharmadhekar" },
-  { name: "Debarun Karmakar", role: "Investment Banking Head", img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80", email: "mailto:debarun@example.com", linkedin: "https://www.linkedin.com/in/debarunkarmakar/" },
+  { name: "Debarun Karmakar", role: "Investment Banking Head", img: debarun, email: "mailto:debarun@example.com", linkedin: "https://www.linkedin.com/in/debarunkarmakar/" },
   { name: "Sujai Murali", role: "InfoSec Head", img: sujai, email: "mailto:velociper5@gmail.com", linkedin: "https://www.linkedin.com/in/sujai-murali" },
   { name: "Kunwar Abhuday Singh", role: "Research Head", img: abhuday, email: "mailto:Abhuday2656@gmail.com", linkedin: "https://www.linkedin.com/in/kunwar-abhuday-singh-280836284" },
   { name: "Pranav G Nayak", role: "Fintech Software Head", img: pranav, email: "mailto:pranav1.mitmpl2023@learner.manipal.edu", linkedin: "https://www.linkedin.com/in/pranav-g-nayak-a68101146/" },
